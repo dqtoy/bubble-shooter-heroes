@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 55659eb0b1e084437abbc87e82ab4a87
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - prefab: {fileID: 185828, guid: 2f67f54cdbdc316439f31944a83c1970, type: 2}
+  - menuMusic: {instanceID: 0}
+  - gameMusic: {instanceID: 0}
+  - fadeClip: {instanceID: 0}
+  - sfxButton: {instanceID: 0}
+  - sfxBomb: {instanceID: 0}
+  - sfxSwap: {instanceID: 0}
+  - sfxTouched: {instanceID: 0}
+  - sfxDrop: {instanceID: 0}
+  - sfxReadyGo: {instanceID: 0}
+  - sfxThrow: {instanceID: 0}
+  - sfxVictory: {instanceID: 0}
+  - sfxFailed: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

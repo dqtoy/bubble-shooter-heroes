@@ -1,0 +1,33 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-32bit-1-3240
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=496 outsize=496 ok=1
+Cmd: preprocess
+  insize=1085 outsize=1085 ok=1
+Cmd: preprocess
+  insize=720 outsize=1591 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=6814 outsize=534 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=6814 outsize=247 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3668 outsize=293 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3668 outsize=369 kw=POINT ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=2994 outsize=293 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=2994 outsize=106 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=5892 outsize=661 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=5892 outsize=212 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=5949 outsize=549 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=5949 outsize=318 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=3017 outsize=429 kw= ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=3017 outsize=707 kw= ok=1

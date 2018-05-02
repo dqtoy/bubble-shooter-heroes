@@ -1,0 +1,3 @@
+﻿LevelUnlocked-ID
+LevelHighScore-ID
+LevelStar-ID

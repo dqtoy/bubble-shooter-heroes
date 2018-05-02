@@ -1,0 +1,26 @@
+1 : red
+2 : blue
+3 : pink
+4 : green
+5 : brown
+6 : purple
+7 : yellow
+8 : white
+9 : tintin
+10 : dark blue
+
+iron ball: 13
+frost : 12
+stone : 15
+thunder : 14
+animal aim? : 17
+bomb : 16
+
+19 : rainbow
+20 : bomb
+
+
+// Special
+x01 : level
+x04 : frost
+x03 : minus
